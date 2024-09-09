@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://doizri.github.io/EiD/sitemap.EiD.gz
